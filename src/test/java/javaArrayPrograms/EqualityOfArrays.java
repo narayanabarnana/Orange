@@ -25,7 +25,7 @@ public class EqualityOfArrays {
         }
         else
         {
-            System.out.println("Two Arrays Are Not equal");
+            System.out.println("Two Arrays Are Not equal.");
         }
 		
 
